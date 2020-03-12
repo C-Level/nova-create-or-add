@@ -1,5 +1,5 @@
 {
-    "name": "mustafatoker/nova-create-or-add",
+    "name": "clevel/nova-create-or-add",
     "description": "A Laravel Nova field.",
     "keywords": [
         "laravel",
